@@ -1,3 +1,0 @@
-C:\Users\CCE\source\repos\jogo_de_xadrez\jogo_de_xadrez\obj\Debug\jogo_de_xadrez.csproj.AssemblyReference.cache
-C:\Users\CCE\source\repos\jogo_de_xadrez\jogo_de_xadrez\obj\Debug\jogo_de_xadrez.csproj.SuggestedBindingRedirects.cache
-C:\Users\CCE\source\repos\jogo_de_xadrez\jogo_de_xadrez\obj\Debug\jogo_de_xadrez.csproj.CoreCompileInputs.cache
